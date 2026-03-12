@@ -29,7 +29,7 @@ All files are plain text / configs — **no executables, no installers, no modif
 **Tip**: Use built-in "Favorites" in Sonar for quick access to your best presets. Backup current settings before applying new ones!
 
 <div align="center">
-  <a href="" target="_blank" rel="noopener">
+  <a href="https://steelseries-gg-gaming-presets.github.io/SteelSeries-GG-Presets/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
